@@ -1,0 +1,4 @@
+{
+  "data[0].attribute[0]": "attribute in first data array at given path",
+  "data[1].attribute[0]": "attribute in second data array at given path"
+}
